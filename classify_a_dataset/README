@@ -1,0 +1,4 @@
+University project.
+Clustering some java libraries using some word that are repeating.
+Three techniques are used : K-means, Self-Organizing Maps and HCA.
+Evaluate the results of clustering using cohesion, separation and SSE(sum of squared errors) metrics.
